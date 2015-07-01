@@ -31,8 +31,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 
-public class VerifyPage extends
-SimonBasePage<VerifyPage> {
+public class VerifyPage extends SimonBasePage<VerifyPage> {
 	
 	static final long PAGE_WAIT_SEC = 20; 
 
